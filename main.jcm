@@ -1,0 +1,8 @@
+mas hellojacamo {
+
+    agent robot_control_agent
+
+    asl-path: src/main/agt
+              src/main/agt/inc
+}
+
